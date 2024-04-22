@@ -1,0 +1,23 @@
+# ninja log v5
+10	442	7354711536111558	CMakeFiles/projekt.dir/organizm.cpp.obj	ddc06cf07802407c
+5	467	7354711536361624	CMakeFiles/projekt.dir/zlab03.cpp.obj	6e6090d7951fd5c6
+0	505	7354711536621688	CMakeFiles/projekt.dir/main.cpp.obj	3d5f4cfcb1c0501e
+34	515	7354711536781738	CMakeFiles/projekt.dir/zlab06.cpp.obj	3518d7afd24dc31
+29	639	7354711538092001	CMakeFiles/projekt.dir/sasiedztwo.cpp.obj	6326c28ccb3e6dee
+24	809	7354711539782399	CMakeFiles/projekt.dir/generatorlosowy.cpp.obj	706716249c76e770
+444	830	7354711539902428	CMakeFiles/projekt.dir/mieszkaniec.cpp.obj	813524a86d9a259c
+467	861	7354711540122477	CMakeFiles/projekt.dir/zlab09.cpp.obj	6f367712d76fa41b
+505	1023	7354711541892868	CMakeFiles/projekt.dir/nisza.cpp.obj	27c9929a8bf774b9
+809	1223	7354711543923322	CMakeFiles/projekt.dir/zlab12.cpp.obj	9a0f0c3f44362d79
+640	1278	7354711544483457	CMakeFiles/projekt.dir/srodowisko.cpp.obj	285d8d3d5204a430
+831	1320	7354711544903535	CMakeFiles/projekt.dir/osobniki.cpp.obj	b916bfd4d1d725df
+515	1652	7354711548204700	CMakeFiles/projekt.dir/zlab10.cpp.obj	a2778e97e8a07070
+1652	1917	7354711550828894	projekt.exe	a2acb0ba6348dc4f
+3	354	7354711850245169	CMakeFiles/projekt.dir/main.cpp.obj	3d5f4cfcb1c0501e
+354	553	7354711852185569	projekt.exe	a2acb0ba6348dc4f
+4	410	7354718504373258	CMakeFiles/projekt.dir/main.cpp.obj	3d5f4cfcb1c0501e
+410	625	7354718506484130	projekt.exe	a2acb0ba6348dc4f
+3	335	7354718670174780	CMakeFiles/projekt.dir/main.cpp.obj	3d5f4cfcb1c0501e
+336	525	7354718672021756	projekt.exe	a2acb0ba6348dc4f
+4	349	7354719059085999	CMakeFiles/projekt.dir/main.cpp.obj	3d5f4cfcb1c0501e
+349	546	7354719061016253	projekt.exe	a2acb0ba6348dc4f
