@@ -190,9 +190,11 @@ Srodowisko Srodowisko::czytajZPliku(std::string nazwaPliku) {
     std::ifstream plik(nazwaPliku);
 
     std::stringstream tekst("");
-    if (plik) {
+    if (plik.is_open()) {
         tekst << plik.rdbuf();
         plik.close();
+    } else {
+        std::cerr << "Nie udalo się otworzyc pliku!" << std::endl;
     }
 
     std::string zapis = tekst.str();

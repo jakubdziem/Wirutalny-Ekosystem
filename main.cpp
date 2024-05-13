@@ -8,9 +8,9 @@ using namespace std;
 #include "sasiedztwo.h"
 
 int main() {
-    Srodowisko ekoSystem = Srodowisko::czytajZPliku("start.txt");
+    Srodowisko ekoSystem = Srodowisko::czytajZPliku("../files/start.txt");
 
-    ofstream plikWynikowy("symulacja.txt");
+    ofstream plikWynikowy("../files/symulacja.txt");
     if(!plikWynikowy.is_open()) return 1;
     string stanSymulacji;
 
