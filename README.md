@@ -33,3 +33,18 @@ ustawiony na wartość początkową i głodny, tzn. licznik posiłków jest wyze
 <br>
 Jeżeli organizm jest grzybem lub bakterią i nie posila się, ani się nie rozmnaża, to zmienia
 celę, jeżeli w jego sąsiedztwie jest wolna cela. Zmiana następuje w sposób losowy.
+
+## Instalacja
+
+1. Sklonuj repozytorium::
+```bash
+git clone https://github.com/jakubdziem/Wirtualny-Ekosystem
+```
+2. Otwórz projekt w środowisku IDE.
+
+<b>Krok 1</b><br>
+![krok2](https://github.com/jakubdziem/Wirutalny-Ekosystem/assets/106815549/0a7ee9fe-136f-4c91-b603-1950100694a6)
+<br><b>Krok 2</b><br>
+![krok3](https://github.com/jakubdziem/Wirutalny-Ekosystem/assets/106815549/4164735b-6063-4002-8084-3ed3a09c542b)
+<br><b>Ostatni krok</b><br>
+![krok200](https://github.com/jakubdziem/Wirutalny-Ekosystem/assets/106815549/7a2a6703-91f7-448e-9228-c292710e5ded)
